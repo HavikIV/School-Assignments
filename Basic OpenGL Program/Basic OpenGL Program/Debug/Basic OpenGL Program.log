@@ -1,0 +1,11 @@
+﻿Build started 5/5/2015 10:08:07 PM.
+     1>Project "E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Basic OpenGL Program\Basic OpenGL Program.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         e:\Program Files 2\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Debug\Basic OpenGL Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opengl32.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Debug\Basic OpenGL Program.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Debug\Basic OpenGL Program.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : error LNK2019: unresolved external symbol "void __cdecl doMyInit(void)" (?doMyInit@@YAXXZ) referenced in function _main
+     1>E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Debug\Basic OpenGL Program.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "E:\Users\Havik\Documents\Visual Studio 2013\Projects\Basic OpenGL Program\Basic OpenGL Program\Basic OpenGL Program.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17

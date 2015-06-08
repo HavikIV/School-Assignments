@@ -1,0 +1,16 @@
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\FinalProject_LotteryTickets.exe.config
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\FinalProject_LotteryTickets.exe
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\FinalProject_LotteryTickets.pdb
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\FinalProject_LotteryTickets.xml
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.frmLotteryTickets.resources
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.Resources.resources
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.exe
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.xml
+e:\users\havik\documents\visual studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.pdb
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.frmNumberOfTickets.resources
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.frmResults.resources
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\Lottey_Class_Project.exe
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\Lottey_Class_Project.pdb
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\bin\Debug\Lottey_Class_Project.xml
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\FinalProject_LotteryTickets\obj\Debug\FinalProject_LotteryTickets.vbprojResolveAssemblyReference.cache

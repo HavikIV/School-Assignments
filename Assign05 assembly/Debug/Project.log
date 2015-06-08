@@ -1,0 +1,14 @@
+﻿Build started 11/24/2014 7:20:00 PM.
+     1>Project "E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling assign06.asm...
+         cmd.exe /C "e:\Users\Havik\AppData\Local\Temp\tmpc94210ce9c044766a0e713ef5f97054a.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\assign06.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Taassign06.asm
+       Link:
+         e:\Program Files 2\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Debug\Project.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\assign06.obj
+         Project.vcxproj -> E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Debug\Project.exe
+     1>Done Building Project "E:\Users\Havik\Documents\Visual Studio 2013\Projects\Assign05 assembly\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36

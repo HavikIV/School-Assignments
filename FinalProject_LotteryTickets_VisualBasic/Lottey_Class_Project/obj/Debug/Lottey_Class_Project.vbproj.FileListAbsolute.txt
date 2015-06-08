@@ -1,0 +1,9 @@
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\obj\Debug\Lottey_Class_Project.Resources.resources
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\obj\Debug\Lottey_Class_Project.vbproj.GenerateResource.Cache
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\bin\Debug\Lottey_Class_Project.exe.config
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\bin\Debug\Lottey_Class_Project.exe
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\bin\Debug\Lottey_Class_Project.pdb
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\bin\Debug\Lottey_Class_Project.xml
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\obj\Debug\Lottey_Class_Project.exe
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\obj\Debug\Lottey_Class_Project.xml
+E:\Users\Havik\Documents\Visual Studio 2013\Projects\FinalProject_LotteryTickets\Lottey_Class_Project\obj\Debug\Lottey_Class_Project.pdb

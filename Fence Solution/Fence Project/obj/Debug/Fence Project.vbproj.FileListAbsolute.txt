@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\bin\Debug\Fence Project.exe.config
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\bin\Debug\Fence Project.exe
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\bin\Debug\Fence Project.pdb
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\bin\Debug\Fence Project.xml
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence_Project.frmMain.resources
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence_Project.Resources.resources
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence Project.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence Project.exe
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence Project.xml
+e:\users\havik\documents\visual studio 2013\Projects\Fence Solution\Fence Project\obj\Debug\Fence Project.pdb
