@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.xml
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Joe.resources
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.xml
+e:\users\havik\documents\visual studio 2012\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb

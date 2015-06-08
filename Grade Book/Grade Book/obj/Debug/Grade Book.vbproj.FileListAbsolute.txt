@@ -1,0 +1,12 @@
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\bin\Debug\Grade Book.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\bin\Debug\Grade Book.exe
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\bin\Debug\Grade Book.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\bin\Debug\Grade Book.xml
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade_Book.GradeBook.resources
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade_Book.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade_Book.StudentsFrom.resources
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade Book.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade Book.exe
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade Book.xml
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade Book.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Grade Book\Grade Book\obj\Debug\Grade_Book.OutPutForm.resources

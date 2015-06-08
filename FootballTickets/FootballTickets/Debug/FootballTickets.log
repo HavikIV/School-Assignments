@@ -1,0 +1,11 @@
+﻿Build started 2/4/2014 8:23:16 PM.
+     1>Project "e:\Users\Havik\documents\visual studio 2012\Projects\FootballTickets\FootballTickets\FootballTickets.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FootballTickets.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FootballTickets.cpp
+         FootballTickets.cpp
+     1>e:\users\havik\documents\visual studio 2012\projects\footballtickets\footballtickets\footballtickets.cpp : fatal error C1853: 'Debug\FootballTickets.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+     1>Done Building Project "e:\Users\Havik\documents\visual studio 2012\Projects\FootballTickets\FootballTickets\FootballTickets.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.06

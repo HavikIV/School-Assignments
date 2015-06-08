@@ -1,0 +1,15 @@
+﻿Build started 4/22/2014 3:17:25 PM.
+     1>Project "e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\modifedBubbleSort\modifedBubbleSort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\modifedBubbleSort.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt modifedBubbleSort.cpp
+         modifedBubbleSort.cpp
+     1>e:\users\havik\documents\visual studio 2012\projects\modifedbubblesort\modifedbubblesort\modifedbubblesort.cpp(30): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\Debug\modifedBubbleSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\Debug\modifedBubbleSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\Debug\modifedBubbleSort.lib" /MACHINE:X86 Debug\modifedBubbleSort.obj
+         Debug\stdafx.obj
+         modifedBubbleSort.vcxproj -> e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\Debug\modifedBubbleSort.exe
+     1>Done Building Project "e:\Users\Havik\documents\visual studio 2012\Projects\modifedBubbleSort\modifedBubbleSort\modifedBubbleSort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28

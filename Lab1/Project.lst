@@ -1,0 +1,81 @@
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/25/14 15:35:28
+main.asm						     Page 1 - 1
+
+
+				;Manjinder Singh
+				;lab1 assignment
+				;BigEndian to littleEndian
+				;moves the contents of bigEndian array to the littleEndian array in reverse order
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 12 34 56 78		bigEndian byte 12h, 34h, 56h, 78h
+ 00000004 00000000		littleEndian dword ?
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  0F B6 05			movzx eax, [bigEndian + 3]
+	   00000003 R
+ 00000007  A3 00000004 R		mov littleEndian, eax
+ 0000000C  0F B6 05			movzx eax, [bigEndian + 2]
+	   00000002 R
+ 00000013  A3 00000005 R		mov [littleEndian + 1], eax
+ 00000018  0F B6 05			movzx eax, [bigEndian + 1]
+	   00000001 R
+ 0000001F  A3 00000006 R		mov [littleEndian + 2], eax
+ 00000024  0F B6 05			movzx eax, bigEndian
+	   00000000 R
+ 0000002B  A3 00000007 R		mov [littleEndian + 3], eax
+ 00000030  A1 00000004 R		mov eax, littleEndian
+
+					invoke ExitProcess,0
+ 00000035  6A 00	   *	    push   +000000000h
+ 00000037  E8 00000000 E   *	    call   ExitProcess
+ 0000003C			main endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/25/14 15:35:28
+main.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000008 DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000003C DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000003C Public STDCALL
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+bigEndian  . . . . . . . . . . .	Byte	 00000000 _DATA	
+littleEndian . . . . . . . . . .	DWord	 00000004 _DATA	
+
+	   0 Warnings
+	   0 Errors

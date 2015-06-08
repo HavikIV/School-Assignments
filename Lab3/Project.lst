@@ -1,0 +1,83 @@
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/28/14 19:17:24
+main.asm						     Page 1 - 1
+
+
+				;Manjinder Singh
+				;lab3 assignment, Problem 4 on page 138
+				;moves the contents of warray array to the dwarray array
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 0001 0002 0003	warray word 1, 2, 3, 4, 5, 6, 7, 8
+	   0004 0005 0006
+	   0007 0008
+ 00000010 00000000		dwarray dword ?
+ = 00000008			count equ lengthof warray ; gets the length of the array warray
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  B9 00000008			mov ecx, count	; sets the counter for that's going to be used by the loop.
+ 00000005  BE 00000000			mov esi, 0		; sets the index = 0 for the array warray
+ 0000000A  BB 00000000			mov ebx, 0		; sets the index = 0 for the array dwarray
+
+ 0000000F				copy:
+ 0000000F  0F B7 86				movzx eax, warray[esi]	; copys the element at the index [esi] as an unsigned 32-bit value to the eax register
+	   00000000 R
+ 00000016  89 83 00000010 R			mov dwarray[ebx], eax	; copys the contents of the eax register to the dwarray at the index [ebx]
+ 0000001C  83 C6 02				add esi, 2				; increments the index for the warray by 2, as warray is an array of word elements (2 bytes)
+ 0000001F  83 C3 04				add ebx, 4				; increments the index for the dwarray by 4, as dwarray is an array of double word elements (4 bytes)
+ 00000022  E2 EB				loop copy				; calls the loop, jumps to the label copy, and decrements the ecx register until it's equals 0
+
+					invoke ExitProcess,0
+ 00000024  6A 00	   *	    push   +000000000h
+ 00000026  E8 00000000 E   *	    call   ExitProcess
+ 0000002B			main endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/28/14 19:17:24
+main.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000014 DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000002B DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000002B Public STDCALL
+  copy . . . . . . . . . . . . .	L Near	 0000000F _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+count  . . . . . . . . . . . . .	Number	 00000008h   
+dwarray  . . . . . . . . . . . .	DWord	 00000010 _DATA	
+warray . . . . . . . . . . . . .	Word	 00000000 _DATA	
+
+	   0 Warnings
+	   0 Errors

@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\bin\Debug\CarpetSize.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\bin\Debug\CarpetSize.exe
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\bin\Debug\CarpetSize.pdb
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\bin\Debug\CarpetSize.xml
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.CarpetSize.resources
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.exe
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.xml
+e:\users\havik\documents\visual studio 2012\Projects\CarpetSize\CarpetSize\obj\Debug\CarpetSize.pdb

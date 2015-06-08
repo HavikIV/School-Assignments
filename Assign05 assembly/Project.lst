@@ -1,0 +1,105 @@
+Microsoft (R) Macro Assembler Version 12.00.31101.0	    11/24/14 19:20:00
+assign06.asm						     Page 1 - 1
+
+
+				;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+				; Manjinder Singh
+				; CSCI 273-5299
+				; Fall 2014
+				; Assignment 6 - Page 238, #1
+				;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 64			upperLimit byte 100					;upper limit for the random number
+ 00000001 01			lowerLimit byte 1					;lower limit for the random number
+
+ 00000000			.data?
+ 00000000  0000000A [		fillArray dword 10 dup(?)
+	    00000000
+	   ]
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  BF 00000000 R		mov edi, offset fillArray		;points to the fillArray
+ 00000005  B9 0000000A			mov ecx, lengthof fillArray		;number of elements for fillArray, used as the loop counter
+ 0000000A  8A 1D 00000000 R		mov bl, upperLimit				;the upper limit
+ 00000010  66| 0F B6 35			movzx si, lowerLimit			;the lower limit
+	   00000001 R
+ 00000018				L1:
+ 00000018  E8 00000011				call randGen				;calls the randGen procedure
+ 0000001D  0F B6 C0				movzx eax, al				;shouldn't need this step if the random number is properly generated.
+ 00000020  89 07				mov dword ptr [edi], eax	;moves the random number in eax to the fillArray
+ 00000022  83 C7 04				add edi, 4 
+ 00000025  E2 F1				loop L1
+					invoke ExitProcess,0
+ 00000027  6A 00	   *	    push   +000000000h
+ 00000029  E8 00000000 E   *	    call   ExitProcess
+ 0000002E			main endp
+
+ 0000002E			randGen proc
+ 0000002E  B4 00			mov ah, 0h						;moves 0 to the ah register
+
+ 00000030  66| 8B C2			mov ax, dx						;moves whatever happens to be in the dx register to the ax register
+ 00000033  66| 33 D2			xor dx, dx						;does the XOR bitwise comparison on the dx register
+ 00000036  66| 0F B6 DB			movzx bx, bl					;unsigned extends the bl register into the bx register, can avoid this step by originally doing so before calling the procedure
+ 0000003A  66| F7 F3			div bx							;divides the ax register by the  bx register, stores the quotient into ax and the remainder into dx
+
+ 0000003D  66| 8B C2			mov ax, dx						;copies the dx register into the ax register
+ 00000040  66| F7 F3			div  bx							;divides the ax register by the  bx register once again, stores the quotient into ax and the remainder into dx
+
+ 00000043  8B C2			mov eax, edx					;copies the edx register into the eax register
+ 00000045  03 C6			add  eax, esi					;adds the esi, the lower limit, to eax
+ 00000047  C3			RET
+ 00000048			randGen endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.31101.0	    11/24/14 19:20:00
+assign06.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_BSS . . . . . . . . . . . . . .	32 Bit	 00000028 DWord	  Public  'BSS'  
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000002 DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 00000048 DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000002E Public STDCALL
+  L1 . . . . . . . . . . . . . .	L Near	 00000018 _TEXT	
+randGen  . . . . . . . . . . . .	P Near	 0000002E _TEXT	Length= 0000001A Public STDCALL
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+fillArray  . . . . . . . . . . .	DWord	 00000000 _BSS	
+lowerLimit . . . . . . . . . . .	Byte	 00000001 _DATA	
+upperLimit . . . . . . . . . . .	Byte	 00000000 _DATA	
+
+	   0 Warnings
+	   0 Errors

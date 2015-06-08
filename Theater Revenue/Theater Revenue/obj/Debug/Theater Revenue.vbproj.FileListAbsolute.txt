@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.xml
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.exe
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.xml
+e:\users\havik\documents\visual studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.pdb
+E:\Users\Havik\Documents\Visual Studio 2012\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.TheaterRevenue.resources

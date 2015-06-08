@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\bin\Debug\Parsing Phone Numbers.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\bin\Debug\Parsing Phone Numbers.exe
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\bin\Debug\Parsing Phone Numbers.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\bin\Debug\Parsing Phone Numbers.xml
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing_Phone_Numbers.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing Phone Numbers.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing Phone Numbers.exe
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing Phone Numbers.xml
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing Phone Numbers.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Parsing Phone Numbers\Parsing Phone Numbers\obj\Debug\Parsing_Phone_Numbers.Phone.resources

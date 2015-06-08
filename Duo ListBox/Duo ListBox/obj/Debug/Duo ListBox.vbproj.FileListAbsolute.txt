@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\bin\Debug\Duo ListBox.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\bin\Debug\Duo ListBox.exe
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\bin\Debug\Duo ListBox.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\bin\Debug\Duo ListBox.xml
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo_ListBox.DuoLists.resources
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo_ListBox.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo ListBox.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo ListBox.exe
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo ListBox.xml
+e:\users\havik\documents\visual studio 2012\Projects\Duo ListBox\Duo ListBox\obj\Debug\Duo ListBox.pdb

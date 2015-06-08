@@ -1,0 +1,4 @@
+The total number of sold tickets is 5750 and the total sale is $ 1437500.00
+The total number of sold tickets is 28000 and the total sale is $ 2800000.00
+The total number of sold tickets is 35750 and the total sale is $ 1787500.00
+The total number of sold tickets is 18750 and the total sale is $ 468750.00

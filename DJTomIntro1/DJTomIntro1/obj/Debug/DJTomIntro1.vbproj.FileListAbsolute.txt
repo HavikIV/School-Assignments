@@ -1,0 +1,2 @@
+E:\Users\Havik\Documents\Visual Studio 2012\Projects\DJTomIntro1\DJTomIntro1\obj\Debug\DJTomIntro1.Resources.resources
+E:\Users\Havik\Documents\Visual Studio 2012\Projects\DJTomIntro1\DJTomIntro1\obj\Debug\DJTomIntro1.vbproj.GenerateResource.Cache

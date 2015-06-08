@@ -1,0 +1,15 @@
+﻿Build started 10/4/2013 10:32:29 AM.
+     1>Project "E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt hello_world.cpp
+         hello_world.cpp
+     1>e:\users\havik\documents\visual studio 2012\projects\hello world\project1\hello_world.cpp(14): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 e:\program files 2\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+       Link:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Debug\Hello World.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Debug\Hello World.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Debug\Hello World.lib" /MACHINE:X86 Debug\hello_world.obj
+         Project1.vcxproj -> E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Debug\Hello World.exe
+     1>Done Building Project "E:\Users\Havik\Documents\Visual Studio 2012\Projects\Hello World\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79

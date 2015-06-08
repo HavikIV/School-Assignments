@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.pdb
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.xml
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.ChangeMaker.resources
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.exe
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.xml
+e:\users\havik\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.pdb

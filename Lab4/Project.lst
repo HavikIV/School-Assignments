@@ -1,0 +1,89 @@
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    11/01/14 17:54:54
+main.asm						     Page 1 - 1
+
+
+				;Manjinder Singh
+				;lab3 assignment, Problem 6 on page 138
+				;reverses the contents the array, using a loop, and also making use of LenghtOf, Type, and SizeOf opertors
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 0001 0002 0003	array word 1, 2, 3, 4, 5, 6, 7
+	   0004 0005 0006
+	   0007
+ = 00000003			count equ lengthof array / 2	; gets the number elements in the array, well half of the lenght of the array.
+ = 00000002			elementType equ type array		; gets the amount of bytes each elements consists of in the array
+ = 0000000E			arraySize equ sizeof array		; gets the total amount of bytes in the array
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  B9 00000003			mov ecx, count				; sets the counter for that's going to be used by the loop.
+ 00000005  BE 00000000			mov esi, 0					; sets the index = 0 for the array
+ 0000000A  BB 0000000E			mov ebx, arraySize			; sets ebx to the number of total bytes in the array
+ 0000000F  83 EB 02			sub ebx, elementType		; subtracts the number of bytes each element consists of, so that the register ebx is set to the offset of the last element of the array.
+
+ 00000012				Reverse:
+ 00000012  0F B7 83		        movzx eax, array[ebx]	; copys the element at the index [esi] as an unsigned 32-bit value to the eax register
+	   00000000 R
+ 00000019  66| 87 86		        xchg ax, array[esi]		; exchanges the values of the ax register and the element at the index [esi]
+	   00000000 R
+ 00000020  66| 89 83		        mov array[ebx], ax		; copys the contents of ax register into the array at the index [ebx]
+	   00000000 R
+ 00000027  83 C6 02		        add esi, elementType	; increments the index for the array by elementType, which it gets with the TYPE opertor, in this case, it's 2
+ 0000002A  83 EB 02		        sub ebx, elementType	; increments the index for the array by elementType, which it gets with the TYPE opertor, in this case, it's 2
+ 0000002D  E2 E3		        loop Reverse			; calls the loop, jumps to the label Reverse, and decrements the ecx register until it's equals 0
+
+					invoke ExitProcess,0
+ 0000002F  6A 00	   *	    push   +000000000h
+ 00000031  E8 00000000 E   *	    call   ExitProcess
+ 00000036			main endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    11/01/14 17:54:54
+main.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 0000000E DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 00000036 DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000036 Public STDCALL
+  Reverse  . . . . . . . . . . .	L Near	 00000012 _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+arraySize  . . . . . . . . . . .	Number	 0000000Eh   
+array  . . . . . . . . . . . . .	Word	 00000000 _DATA	
+count  . . . . . . . . . . . . .	Number	 00000003h   
+elementType  . . . . . . . . . .	Number	 00000002h   
+
+	   0 Warnings
+	   0 Errors

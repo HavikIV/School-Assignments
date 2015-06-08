@@ -1,0 +1,83 @@
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/28/14 19:46:52
+main.asm						     Page 1 - 1
+
+
+				;Manjinder Singh
+				;lab4 assignment, Problem 5 on page 138
+				;loop to find the first 7 numbers of the Fibonacci Numbers
+
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 00000001		fibarray dword 1, 1 ;probably should have made it into an unitialized array of 7 elements and later added the first two elements in the main code before the loop.
+	   00000001
+									;Didn't need to make an dword array either, a byte array would have worked also.
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  B9 00000005			mov ecx, 5		; sets the counter for the loop to be 5 as we already know the first numbers of the sequence, so we only need 5 more
+ 00000005  B8 00000000			mov eax, 0		; clears out the eax register
+ 0000000A  BB 00000000			mov ebx, 0		; clears out the ebx register
+ 0000000F  BE 00000000			mov esi, 0		; sets the index to 0
+
+ 00000014				fib:
+ 00000014  8B 86 00000000 R			mov eax, fibarray[esi]		; copys the element form the fibarray array to the eax register
+ 0000001A  83 C6 04				add esi, 4					; increments the index by 4, as the array elements are double word (4 bytes), to get the next element
+ 0000001D  8B 9E 00000000 R			mov ebx, fibarray[esi]		; copys another element to the ebx register
+ 00000023  03 C3				add eax, ebx				; adds the contents of the eax and the ebx registers together and places the sum into the eax register
+ 00000025  83 C6 04				add esi, 4					; increments the index by 4 to store the sum into the next location in the array
+ 00000028  89 86 00000000 R			mov fibarray[esi], eax		; copys the sum from the eax register to the fibarray
+ 0000002E  83 EE 04				sub esi, 4					; decrements the index in prepration for the next run the loop, need to get the second to last element first
+ 00000031  E2 E1				loop fib
+
+					invoke ExitProcess,0
+ 00000033  6A 00	   *	    push   +000000000h
+ 00000035  E8 00000000 E   *	    call   ExitProcess
+ 0000003A			main endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.30723.0	    10/28/14 19:46:52
+main.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000008 DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000003A DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000003A Public STDCALL
+  fib  . . . . . . . . . . . . .	L Near	 00000014 _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+fibarray . . . . . . . . . . . .	DWord	 00000000 _DATA	
+
+	   0 Warnings
+	   0 Errors

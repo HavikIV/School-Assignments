@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.xml
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.xml
+e:\users\havik\documents\visual studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb

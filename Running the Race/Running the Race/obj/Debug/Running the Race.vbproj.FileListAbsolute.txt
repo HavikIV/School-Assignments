@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.exe
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.xml
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running_the_Race.Race.resources
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running_the_Race.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.exe
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.xml
+e:\users\havik\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.pdb

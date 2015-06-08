@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\bin\Debug\Bar Chart.exe
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\bin\Debug\Bar Chart.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\bin\Debug\Bar Chart.xml
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar_Chart.Sales.resources
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar_Chart.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar Chart.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar Chart.exe
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar Chart.xml
+e:\users\havik\documents\visual studio 2012\Projects\Bar Chart\Bar Chart\obj\Debug\Bar Chart.pdb

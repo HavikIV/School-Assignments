@@ -1,0 +1,8 @@
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\bin\AppleOrchard.dll
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\bin\AppleOrchard.pdb
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\bin\AppleOrchard.xml
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\obj\Debug\AppleOrchard.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\obj\Debug\AppleOrchard.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\obj\Debug\AppleOrchard.dll
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\obj\Debug\AppleOrchard.xml
+e:\users\havik\documents\visual studio 2012\Projects\AppleOrchard\AppleOrchard\obj\Debug\AppleOrchard.pdb

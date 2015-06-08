@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quiz
+</name>
+</assembly>
+<members>
+<member name="P:Quiz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Quiz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Quiz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Quiz.Form1.StartTheQuiz">
+	<summary> 
+ Start the quiz by filling in all of the problems 
+ and starting the timer. 
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

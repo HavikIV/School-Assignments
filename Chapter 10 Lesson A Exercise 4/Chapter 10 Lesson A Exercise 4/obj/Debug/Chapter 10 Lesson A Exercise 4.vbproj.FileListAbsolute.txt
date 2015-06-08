@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\bin\Debug\Chapter 10 Lesson A Exercise 4.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\bin\Debug\Chapter 10 Lesson A Exercise 4.exe
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\bin\Debug\Chapter 10 Lesson A Exercise 4.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\bin\Debug\Chapter 10 Lesson A Exercise 4.xml
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter_10_Lesson_A_Exercise_4.Form1.resources
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter_10_Lesson_A_Exercise_4.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter 10 Lesson A Exercise 4.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter 10 Lesson A Exercise 4.exe
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter 10 Lesson A Exercise 4.xml
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 10 Lesson A Exercise 4\Chapter 10 Lesson A Exercise 4\obj\Debug\Chapter 10 Lesson A Exercise 4.pdb

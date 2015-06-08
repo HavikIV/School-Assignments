@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.MathTutor.resources
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math Tutor.exe
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math Tutor.xml
+e:\users\havik\documents\visual studio 2012\Projects\Math Tutor\Math Tutor\obj\Debug\Math Tutor.pdb

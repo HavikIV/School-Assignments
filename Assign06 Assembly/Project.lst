@@ -1,0 +1,133 @@
+Microsoft (R) Macro Assembler Version 12.00.31101.0	    12/02/14 09:46:59
+assign06.asm						     Page 1 - 1
+
+
+				;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+				; Manjinder Singh
+				; CSCI 273-5299
+				; Fall 2014
+				; Assignment 6 - Page 238, #2
+				;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 00000032		testArray sdword 50, 1564, -45, -9, 2, -245
+	   0000061C
+	   FFFFFFD3
+	   FFFFFFF7
+	   00000002
+	   FFFFFF0B
+ 00000018 00000032		testArray2 sdword 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+	   00000032
+ 00000044 00			j byte 0										;lower limit
+ 00000045 06			k byte 6										;upper limit
+ 00000046 00000000		sum dword 0										;sum variable, going to use this to prevent the sum being lost the popad instruction as I don't know a way to pop all
+																;registers except eax. I know I can push all of the individual registers myself (push register) and then pop them individually (pop register)
+																;in the right order, but this seems to be easier and faster way.
+
+ 00000000			.code
+ 00000000			main proc
+ 00000000  BF 00000000 R		mov edi, offset testArray					;points to the testArray
+ 00000005  B8 00000004			mov eax, type testArray						;size of elements, used to increment the offset
+ 0000000A  0F B6 1D			movzx ebx, j								;passing the lower limit
+	   00000044 R
+ 00000011  0F B6 15			movzx edx, k								;passing the upper limit
+	   00000045 R
+					;mov eax, 0									;empties out the eax register
+
+ 00000018  E8 0000002B			call arraySumming
+
+ 0000001D  BF 00000018 R		mov edi, offset testArray2					;points to the testArrary2
+ 00000022  B8 00000004			mov eax, type testArray2					;size of elements, used to increment the offset
+ 00000027  C6 05 00000045 R		mov k, 5
+	   05
+ 0000002E  0F B6 1D			movzx ebx, j								;passing the lower limit
+	   00000044 R
+ 00000035  0F B6 15			movzx edx, k								;passing the upper limit
+	   00000045 R
+
+ 0000003C  E8 00000007			call arraySumming
+
+					invoke ExitProcess,0
+ 00000041  6A 00	   *	    push   +000000000h
+ 00000043  E8 00000000 E   *	    call   ExitProcess
+ 00000048			main endp
+
+ 00000048			arraySumming proc								;procedure to sum up the elements of an array within the range of j to k, and returns the sum in eax register.
+ 00000048  60				pushad										;pushes everything onto the stack to preserve the registers
+ 00000049  8B CA			mov ecx, edx
+ 0000004B  2B CB			sub ecx, ebx								;sets the ecx register to (k - j), used for the loop counter
+ 0000004D  0F AF D8			imul ebx, eax								;multiplies the ebx value by 4, gonna be used to adjust the edi offset to the first element in the range j to k
+ 00000050  03 FB			add edi, ebx								;sets the offset to the location of j
+ 00000052  8B D8			mov ebx, eax								;moves the size of each elements from eax to ebx, we don't need the value anymore
+ 00000054  B8 00000000			mov eax, 0									;empties out the eax register for the summation process
+ 00000059				L1:
+ 00000059  03 07				add eax, dword ptr [edi]				;adds the element at the offset of [edi] into eax
+ 0000005B  03 FB				add edi, ebx							;increments the offset by 4 as the array is double word
+ 0000005D  E2 FA				loop L1									;loops to the beginning of the loop until ecx equals 0
+ 0000005F  A3 00000046 R		mov sum, eax								;moves the sum into the sum variable
+ 00000064  61				popad										;returns to the previous state, before procedure call
+ 00000065  A1 00000046 R		mov eax, sum								;moves the sum back into the eax register
+ 0000006A  C3				ret
+ 0000006B			arraySumming endp
+				end main
+Microsoft (R) Macro Assembler Version 12.00.31101.0	    12/02/14 09:46:59
+assign06.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 0000004A DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000006B DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+arraySumming . . . . . . . . . .	P Near	 00000048 _TEXT	Length= 00000023 Public STDCALL
+  L1 . . . . . . . . . . . . . .	L Near	 00000059 _TEXT	
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000048 Public STDCALL
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+j  . . . . . . . . . . . . . . .	Byte	 00000044 _DATA	
+k  . . . . . . . . . . . . . . .	Byte	 00000045 _DATA	
+sum  . . . . . . . . . . . . . .	DWord	 00000046 _DATA	
+testArray2 . . . . . . . . . . .	DWord	 00000018 _DATA	
+testArray  . . . . . . . . . . .	DWord	 00000000 _DATA	
+
+	   0 Warnings
+	   0 Errors

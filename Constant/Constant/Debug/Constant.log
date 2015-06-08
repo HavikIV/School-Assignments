@@ -1,0 +1,11 @@
+﻿Build started 11/9/2012 3:15:04 PM.
+     1>Project "e:\Users\Havik\documents\visual studio 2012\Projects\Constant\Constant\Constant.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         e:\Program Files 2\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Skipping... (no relevant changes detected)
+         Source.cpp
+     1>Done Building Project "e:\Users\Havik\documents\visual studio 2012\Projects\Constant\Constant\Constant.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

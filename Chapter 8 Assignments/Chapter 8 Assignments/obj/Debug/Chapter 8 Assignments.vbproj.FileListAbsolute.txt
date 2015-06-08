@@ -1,0 +1,10 @@
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\bin\Debug\Chapter 8 Assignments.exe.config
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\bin\Debug\Chapter 8 Assignments.exe
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\bin\Debug\Chapter 8 Assignments.pdb
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\bin\Debug\Chapter 8 Assignments.xml
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter_8_Assignments.Form1.resources
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter_8_Assignments.Resources.resources
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter 8 Assignments.vbproj.GenerateResource.Cache
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter 8 Assignments.exe
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter 8 Assignments.xml
+e:\users\havik\documents\visual studio 2012\Projects\Chapter 8 Assignments\Chapter 8 Assignments\obj\Debug\Chapter 8 Assignments.pdb
