@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\bin\Debug\In-Class Subroutines and Functions.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\bin\Debug\In-Class Subroutines and Functions.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\bin\Debug\In-Class Subroutines and Functions.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\bin\Debug\In-Class Subroutines and Functions.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In_Class_Subroutines_and_Functions.Form1.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In_Class_Subroutines_and_Functions.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In-Class Subroutines and Functions.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In-Class Subroutines and Functions.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In-Class Subroutines and Functions.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Subroutines and Functions\In-Class Subroutines and Functions\obj\Debug\In-Class Subroutines and Functions.pdb

@@ -1,0 +1,22 @@
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\bin\Debug\Web_Browser.exe
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\bin\Debug\Web_Browser.pdb
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\bin\Debug\Web_Browser.xml
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\Web_Browser.Form1.resources
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\Web_Browser.Resources.resources
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\Web_Browser.exe
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\Web_Browser.xml
+C:\Users\HellRasier\AppData\Local\Temporary Projects\Web_Browser\obj\x86\Debug\Web_Browser.pdb
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\Web_Browser.exe
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\Web_Browser.xml
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\Web_Browser.pdb
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\bin\Debug\Web_Browser.exe
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\bin\Debug\Web_Browser.pdb
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\bin\Debug\Web_Browser.xml
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\Web_Browser.Form1.resources
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\Web_Browser.Resources.resources
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Web_Browser\Web_Browser\obj\x86\Debug\GenerateResource.write.1.tlog

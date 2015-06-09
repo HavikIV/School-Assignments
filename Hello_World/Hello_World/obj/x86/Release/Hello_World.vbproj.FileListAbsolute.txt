@@ -1,0 +1,9 @@
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\bin\Release\Hello_World.exe
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\bin\Release\Hello_World.pdb
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\bin\Release\Hello_World.xml
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.Form1.resources
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.Resources.resources
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.vbproj.GenerateResource.Cache
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.exe
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.xml
+e:\Users\Havik\documents\visual studio 2010\Projects\Hello_World\Hello_World\obj\x86\Release\Hello_World.pdb

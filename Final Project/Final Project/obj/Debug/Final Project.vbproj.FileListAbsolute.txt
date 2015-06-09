@@ -1,0 +1,11 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\bin\Debug\Final Project.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.EnterForm.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\Final Project\Final Project\obj\Debug\Final Project.pdb

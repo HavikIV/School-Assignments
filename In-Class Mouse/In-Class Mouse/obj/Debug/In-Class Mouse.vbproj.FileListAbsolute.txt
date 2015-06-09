@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\bin\Debug\In-Class Mouse.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\bin\Debug\In-Class Mouse.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\bin\Debug\In-Class Mouse.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\bin\Debug\In-Class Mouse.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In_Class_Mouse.Form1.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In_Class_Mouse.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In-Class Mouse.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In-Class Mouse.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In-Class Mouse.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Mouse\In-Class Mouse\obj\Debug\In-Class Mouse.pdb

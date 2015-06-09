@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\bin\Debug\InClassSpotLight.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\bin\Debug\InClassSpotLight.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\bin\Debug\InClassSpotLight.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\bin\Debug\InClassSpotLight.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.Spotlight.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\InClassSpotLight\InClassSpotLight\obj\Debug\InClassSpotLight.pdb

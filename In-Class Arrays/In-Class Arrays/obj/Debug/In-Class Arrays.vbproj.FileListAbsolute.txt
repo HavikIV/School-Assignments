@@ -1,0 +1,11 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\bin\Debug\In-Class Arrays.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\bin\Debug\In-Class Arrays.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\bin\Debug\In-Class Arrays.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\bin\Debug\In-Class Arrays.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In_Class_Arrays.Form1.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In_Class_Arrays.Form2.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In_Class_Arrays.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In-Class Arrays.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In-Class Arrays.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In-Class Arrays.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Arrays\In-Class Arrays\obj\Debug\In-Class Arrays.pdb

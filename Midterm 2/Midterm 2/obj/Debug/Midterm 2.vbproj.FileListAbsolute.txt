@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\bin\Debug\Midterm 2.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\bin\Debug\Midterm 2.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\bin\Debug\Midterm 2.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\bin\Debug\Midterm 2.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm_2.Midterm.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm_2.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm 2.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm 2.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm 2.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\Midterm 2\Midterm 2\obj\Debug\Midterm 2.pdb

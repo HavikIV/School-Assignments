@@ -1,0 +1,79 @@
+Microsoft (R) Macro Assembler Version 11.00.60315.1	    10/28/14 10:43:33
+main.asm						     Page 1 - 1
+
+
+				;Manjinder Singh
+				;in-class looping lab
+				;10/28/2014
+
+				.386
+				.model flat,stdcall
+				.stack 4096
+				ExitProcess proto,dwExitCode:dword
+
+ 00000000			.data
+ 00000000 01 02 03 04 05		array byte 1h, 2h, 3h, 4h, 5h, 6h, 7h, 8h, 9h, 10h
+	   06 07 08 09 10
+ = 00000005				count equ lengthof array / 2
+ 0000000A 0A				count2 byte 10
+ 00000000			.code
+ 00000000			main proc
+ 00000000  B9 00000004			mov ecx, count - 1
+ 00000005  BE 00000000			mov esi, 0
+
+ 0000000A				swap:
+ 0000000A  8A 86 00000000 R			mov al, array[esi]
+ 00000010  86 86 00000001 R			xchg al , array[esi + 1]
+ 00000016  88 86 00000000 R			mov array[esi] , al
+ 0000001C  83 C6 02				add esi, 2
+ 0000001F  E2 E9				loop swap
+
+					invoke ExitProcess,0
+ 00000021  6A 00	   *	    push   +000000000h
+ 00000023  E8 00000000 E   *	    call   ExitProcess
+ 00000028			main endp
+				end main
+Microsoft (R) Macro Assembler Version 11.00.60315.1	    10/28/14 10:43:33
+main.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 0000000B DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 00000028 DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000028 Public STDCALL
+  swap . . . . . . . . . . . . .	L Near	 0000000A _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+array  . . . . . . . . . . . . .	Byte	 00000000 _DATA	
+count2 . . . . . . . . . . . . .	Byte	 0000000A _DATA	
+count  . . . . . . . . . . . . .	Number	 00000005h   
+
+	   0 Warnings
+	   0 Errors

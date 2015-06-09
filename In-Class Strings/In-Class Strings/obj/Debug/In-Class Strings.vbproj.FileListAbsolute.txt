@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\bin\Debug\In-Class Strings.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\bin\Debug\In-Class Strings.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\bin\Debug\In-Class Strings.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\bin\Debug\In-Class Strings.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In_Class_Strings.strings.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In_Class_Strings.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In-Class Strings.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In-Class Strings.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In-Class Strings.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Strings\In-Class Strings\obj\Debug\In-Class Strings.pdb

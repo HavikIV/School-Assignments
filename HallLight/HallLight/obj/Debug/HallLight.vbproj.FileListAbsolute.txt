@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\bin\Debug\HallLight.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\bin\Debug\HallLight.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\bin\Debug\HallLight.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\bin\Debug\HallLight.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\HallLight\HallLight\obj\Debug\HallLight.HallLights.resources

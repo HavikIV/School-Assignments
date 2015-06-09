@@ -1,0 +1,9 @@
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\bin\Debug\Calander.exe
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\bin\Debug\Calander.pdb
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\bin\Debug\Calander.xml
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.Resources.resources
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.exe
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.xml
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.pdb
+C:\Users\HellRasier\documents\visual studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.MetricConversion.resources
+C:\Users\HellRasier\Documents\Visual Studio 2010\Projects\Calander\Calander\obj\x86\Debug\Calander.vbproj.GenerateResource.Cache

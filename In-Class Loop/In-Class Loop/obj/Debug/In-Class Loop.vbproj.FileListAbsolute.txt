@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\bin\Debug\In-Class Loop.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\bin\Debug\In-Class Loop.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\bin\Debug\In-Class Loop.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\bin\Debug\In-Class Loop.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In_Class_Loop.Multi.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In_Class_Loop.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In-Class Loop.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In-Class Loop.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In-Class Loop.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Loop\In-Class Loop\obj\Debug\In-Class Loop.pdb

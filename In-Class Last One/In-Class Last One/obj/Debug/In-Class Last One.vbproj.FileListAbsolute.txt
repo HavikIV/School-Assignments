@@ -1,0 +1,10 @@
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\bin\Debug\In-Class Last One.exe.config
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\bin\Debug\In-Class Last One.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\bin\Debug\In-Class Last One.pdb
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\bin\Debug\In-Class Last One.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In_Class_Last_One.Sorting.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In_Class_Last_One.Resources.resources
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In-Class Last One.vbproj.GenerateResource.Cache
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In-Class Last One.exe
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In-Class Last One.xml
+c:\users\hellrasier\documents\visual studio 2012\Projects\In-Class Last One\In-Class Last One\obj\Debug\In-Class Last One.pdb
